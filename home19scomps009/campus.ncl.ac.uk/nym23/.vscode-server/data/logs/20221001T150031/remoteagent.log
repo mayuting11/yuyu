@@ -1,0 +1,159 @@
+[2022-10-01 15:00:31.300] [remoteagent] [info] Extension host agent started.
+[2022-10-01 15:00:31.608] [remoteagent] [info] [127.0.0.1][7b5fad69][ManagementConnection] New connection established.
+[2022-10-01 15:00:31.609] [remoteagent] [info] [127.0.0.1][1dadc9be][ExtensionHostConnection] New connection established.
+[2022-10-01 15:00:31.613] [remoteagent] [info] [127.0.0.1][1dadc9be][ExtensionHostConnection] <21329> Launched Extension Host Process.
+[2022-10-01 15:00:56.990] [remoteagent] [info] [127.0.0.1][d6447902][ManagementConnection] New connection established.
+[2022-10-01 15:00:57.013] [remoteagent] [info] [127.0.0.1][05af140f][ExtensionHostConnection] New connection established.
+[2022-10-01 15:00:57.020] [remoteagent] [info] [127.0.0.1][05af140f][ExtensionHostConnection] <21660> Launched Extension Host Process.
+[2022-10-01 15:01:52.192] [remoteagent] [info] [127.0.0.1][7b5fad69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 15:01:52.210] [remoteagent] [info] [127.0.0.1][1dadc9be][ExtensionHostConnection] <21329> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 15:04:16.615] [remoteagent] [info] [127.0.0.1][d6447902][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 15:04:16.632] [remoteagent] [info] [127.0.0.1][05af140f][ExtensionHostConnection] <21660> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 15:04:16.632] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-01 15:04:34.840] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-01 15:04:34.840] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 15:04:35.039] [remoteagent] [info] [127.0.0.1][9a107855][ManagementConnection] New connection established.
+[2022-10-01 15:04:35.040] [remoteagent] [info] [127.0.0.1][6d4c74bc][ExtensionHostConnection] New connection established.
+[2022-10-01 15:04:35.049] [remoteagent] [info] [127.0.0.1][6d4c74bc][ExtensionHostConnection] <23992> Launched Extension Host Process.
+[2022-10-01 15:08:41.492] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-01 15:08:41.492] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 15:08:41.604] [remoteagent] [info] [127.0.0.1][c89801ec][ManagementConnection] New connection established.
+[2022-10-01 15:08:41.615] [remoteagent] [info] [127.0.0.1][1350ecd7][ExtensionHostConnection] New connection established.
+[2022-10-01 15:08:41.620] [remoteagent] [info] [127.0.0.1][1350ecd7][ExtensionHostConnection] <26620> Launched Extension Host Process.
+[2022-10-01 15:08:50.554] [remoteagent] [info] [127.0.0.1][9a107855][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 15:08:50.571] [remoteagent] [info] [127.0.0.1][6d4c74bc][ExtensionHostConnection] <23992> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 15:08:50.572] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 15:23:03.086] [remoteagent] [info] [127.0.0.1][c89801ec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 15:23:03.099] [remoteagent] [info] [127.0.0.1][1350ecd7][ExtensionHostConnection] <26620> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 15:23:03.099] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-01 15:23:15.697] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-01 15:23:15.697] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 15:23:15.811] [remoteagent] [info] [127.0.0.1][c6e60a26][ManagementConnection] New connection established.
+[2022-10-01 15:23:15.823] [remoteagent] [info] [127.0.0.1][86bdefb7][ExtensionHostConnection] New connection established.
+[2022-10-01 15:23:15.831] [remoteagent] [info] [127.0.0.1][86bdefb7][ExtensionHostConnection] <3455> Launched Extension Host Process.
+[2022-10-01 15:26:03.073] [remoteagent] [info] [127.0.0.1][c6e60a26][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 15:26:03.086] [remoteagent] [info] [127.0.0.1][86bdefb7][ExtensionHostConnection] <3455> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 15:26:03.086] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 15:26:03.086] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-01 15:26:28.140] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-01 15:26:28.140] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 15:26:28.295] [remoteagent] [info] [127.0.0.1][1e69b298][ManagementConnection] New connection established.
+[2022-10-01 15:26:28.311] [remoteagent] [info] [127.0.0.1][9286725c][ExtensionHostConnection] New connection established.
+[2022-10-01 15:26:28.318] [remoteagent] [info] [127.0.0.1][9286725c][ExtensionHostConnection] <5682> Launched Extension Host Process.
+[2022-10-01 15:26:30.693] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-01 15:31:28.141] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-10-01 16:46:45.084] [remoteagent] [info] [127.0.0.1][1e69b298][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-10-01 16:46:45.084] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)
+[2022-10-01 17:17:08.404] [remoteagent] [info] [127.0.0.1][1e69b298][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-10-01 17:17:08.405] [remoteagent] [info] [127.0.0.1][0eb1e816][ManagementConnection] New connection established.
+[2022-10-01 17:17:08.407] [remoteagent] [info] [127.0.0.1][bebd65be][ExtensionHostConnection] New connection established.
+[2022-10-01 17:17:08.412] [remoteagent] [info] [127.0.0.1][bebd65be][ExtensionHostConnection] <9882> Launched Extension Host Process.
+[2022-10-01 17:22:08.457] [remoteagent] [info] [127.0.0.1][1e69b298][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-10-01 17:22:08.502] [remoteagent] [info] [127.0.0.1][9286725c][ExtensionHostConnection] <5682> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 17:39:01.503] [remoteagent] [info] Getting Manifest... donjayamanne.python-extension-pack
+[2022-10-01 17:39:01.567] [remoteagent] [info] Installing extension: donjayamanne.python-extension-pack
+[2022-10-01 17:39:02.102] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-10-01 17:39:03.066] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-10-01 17:39:03.326] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-10-01 17:39:03.532] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-10-01 17:39:03.592] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-10-01 17:39:03.658] [remoteagent] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-10-01 17:39:03.862] [remoteagent] [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-01 17:39:03.893] [remoteagent] [info] Getting Manifest... batisteo.vscode-django
+[2022-10-01 17:39:03.959] [remoteagent] [info] Getting Manifest... wholroyd.jinja
+[2022-10-01 17:39:04.023] [remoteagent] [info] Getting Manifest... njpwerner.autodocstring
+[2022-10-01 17:39:04.108] [remoteagent] [info] Getting Manifest... kevinrose.vsc-python-indent
+[2022-10-01 17:39:04.190] [remoteagent] [info] Getting Manifest... donjayamanne.python-environment-manager
+[2022-10-01 17:39:04.287] [remoteagent] [info] Installing extension: ms-python.python
+[2022-10-01 17:39:04.287] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-10-01 17:39:04.288] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-10-01 17:39:04.288] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-10-01 17:39:04.288] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-10-01 17:39:04.288] [remoteagent] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-10-01 17:39:04.288] [remoteagent] [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-01 17:39:04.288] [remoteagent] [info] Installing extension: batisteo.vscode-django
+[2022-10-01 17:39:04.289] [remoteagent] [info] Installing extension: wholroyd.jinja
+[2022-10-01 17:39:04.289] [remoteagent] [info] Installing extension: njpwerner.autodocstring
+[2022-10-01 17:39:04.289] [remoteagent] [info] Installing extension: kevinrose.vsc-python-indent
+[2022-10-01 17:39:04.289] [remoteagent] [info] Installing extension: donjayamanne.python-environment-manager
+[2022-10-01 17:39:04.911] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-10-01 17:39:04.967] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.17bc1558-95a9-4ee8-baa0-cf64d44d5f1b: ms-toolsai.jupyter-keymap
+[2022-10-01 17:39:04.970] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-10-01 17:39:04.974] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-10-01 17:39:04.988] [remoteagent] [info] Downloaded extension: batisteo.vscode-django /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/batisteo.vscode-django-1.10.0
+[2022-10-01 17:39:05.010] [remoteagent] [info] Downloaded extension: visualstudioexptteam.intellicode-api-usage-examples /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/visualstudioexptteam.intellicode-api-usage-examples-0.2.4
+[2022-10-01 17:39:05.027] [remoteagent] [info] Downloaded extension: kevinrose.vsc-python-indent /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.17.0
+[2022-10-01 17:39:05.234] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.a1b12b2d-bc26-4527-9393-89c218ecf7bf: kevinrose.vsc-python-indent
+[2022-10-01 17:39:05.244] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/kevinrose.vsc-python-indent-1.17.0
+[2022-10-01 17:39:05.249] [remoteagent] [info] Extracting completed. kevinrose.vsc-python-indent
+[2022-10-01 17:39:05.298] [remoteagent] [info] Downloaded extension: wholroyd.jinja /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/wholroyd.jinja-0.0.8
+[2022-10-01 17:39:05.318] [remoteagent] [info] Downloaded extension: njpwerner.autodocstring /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/njpwerner.autodocstring-0.6.1
+[2022-10-01 17:39:05.350] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.020588db-a095-432a-beb9-c2d6ca9a840f: wholroyd.jinja
+[2022-10-01 17:39:05.355] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/wholroyd.jinja-0.0.8
+[2022-10-01 17:39:05.370] [remoteagent] [info] Extracting completed. wholroyd.jinja
+[2022-10-01 17:39:05.511] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9
+[2022-10-01 17:39:05.512] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.4424c348-3024-45b5-b47c-05e22160cf1a: batisteo.vscode-django
+[2022-10-01 17:39:05.518] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/batisteo.vscode-django-1.10.0
+[2022-10-01 17:39:05.528] [remoteagent] [info] Extracting completed. batisteo.vscode-django
+[2022-10-01 17:39:05.550] [remoteagent] [info] Downloaded extension: ms-python.python /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.14.0
+[2022-10-01 17:39:05.629] [remoteagent] [info] Downloaded extension: donjayamanne.python-environment-manager /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.python-environment-manager-1.0.4
+[2022-10-01 17:39:05.949] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.1f012a9b-aaa3-43d3-b8a2-41c4e4a18de7: njpwerner.autodocstring
+[2022-10-01 17:39:05.956] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/njpwerner.autodocstring-0.6.1
+[2022-10-01 17:39:05.980] [remoteagent] [info] Extracting completed. njpwerner.autodocstring
+[2022-10-01 17:39:06.028] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002431955
+[2022-10-01 17:39:06.194] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.ad3decd3-9cc8-4a79-8fac-82f70c25098d: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-01 17:39:06.200] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.4
+[2022-10-01 17:39:06.220] [remoteagent] [info] Extracting completed. visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-01 17:39:06.548] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.28c54959-1a48-4c4c-ab2c-9fc30b801d06: ms-toolsai.jupyter-renderers
+[2022-10-01 17:39:06.552] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-10-01 17:39:06.560] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-10-01 17:39:07.776] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.935b693a-3bec-4504-a933-e7966cd459a2: ms-toolsai.jupyter
+[2022-10-01 17:39:07.804] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955
+[2022-10-01 17:39:07.881] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-10-01 17:39:09.252] [remoteagent] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.28
+[2022-10-01 17:39:10.032] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.44a7a393-08c5-431b-bf06-68099001b2bd: donjayamanne.python-environment-manager
+[2022-10-01 17:39:10.046] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/donjayamanne.python-environment-manager-1.0.4
+[2022-10-01 17:39:10.094] [remoteagent] [info] Extracting completed. donjayamanne.python-environment-manager
+[2022-10-01 17:39:10.503] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.34dcc6a3-01f4-4b4c-a695-bad604e45814: ms-python.python
+[2022-10-01 17:39:10.511] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.python-2022.14.0
+[2022-10-01 17:39:10.532] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-10-01 17:39:11.599] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.7ed7a9aa-b587-44a2-bf3a-4ba939840ca6: visualstudioexptteam.vscodeintellicode
+[2022-10-01 17:39:11.611] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.28
+[2022-10-01 17:39:11.629] [remoteagent] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-10-01 17:39:13.559] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.40
+[2022-10-01 17:39:16.781] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.e2a11ee6-da24-4dd5-b323-74ffdd3d0e75: ms-python.vscode-pylance
+[2022-10-01 17:39:16.790] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40
+[2022-10-01 17:39:16.815] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-10-01 17:39:17.165] [remoteagent] [info] Downloaded extension: donjayamanne.python-extension-pack /home/campus.ncl.ac.uk/nym23/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.python-extension-pack-1.7.0
+[2022-10-01 17:39:17.186] [remoteagent] [info] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.53600b4c-1721-40ab-88ba-b46880879573: donjayamanne.python-extension-pack
+[2022-10-01 17:39:17.206] [remoteagent] [info] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/donjayamanne.python-extension-pack-1.7.0
+[2022-10-01 17:39:17.218] [remoteagent] [info] Extracting completed. donjayamanne.python-extension-pack
+[2022-10-01 17:39:17.218] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: wholroyd.jinja
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: batisteo.vscode-django
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: njpwerner.autodocstring
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: donjayamanne.python-environment-manager
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-10-01 17:39:17.219] [remoteagent] [info] Extension installed successfully: donjayamanne.python-extension-pack
+[2022-10-01 17:41:10.597] [remoteagent] [info] [127.0.0.1][0eb1e816][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 17:41:10.624] [remoteagent] [info] [127.0.0.1][bebd65be][ExtensionHostConnection] <9882> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 17:41:10.625] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-01 17:41:50.890] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-01 17:41:50.890] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 17:41:51.034] [remoteagent] [info] [127.0.0.1][8db2ddbe][ManagementConnection] New connection established.
+[2022-10-01 17:41:51.049] [remoteagent] [info] [127.0.0.1][aadca145][ExtensionHostConnection] New connection established.
+[2022-10-01 17:41:51.058] [remoteagent] [info] [127.0.0.1][aadca145][ExtensionHostConnection] <25107> Launched Extension Host Process.
+[2022-10-01 17:41:53.509] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-01 17:42:05.573] [remoteagent] [info] [127.0.0.1][8db2ddbe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-01 17:42:05.586] [remoteagent] [info] [127.0.0.1][aadca145][ExtensionHostConnection] <25107> Extension Host Process exited with code: 0, signal: null.
+[2022-10-01 17:42:05.586] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-01 17:42:05.586] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-01 17:47:05.586] [remoteagent] [info] Last EH closed, shutting down

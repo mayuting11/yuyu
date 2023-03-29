@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.defaultInterpreterPath": "D:\\Python3.7\\python.exe",
+    "workbench.editor.untitled.hint": "hidden",
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.remotePlatform": {
+        "yuting": "linux"
+    }
+}

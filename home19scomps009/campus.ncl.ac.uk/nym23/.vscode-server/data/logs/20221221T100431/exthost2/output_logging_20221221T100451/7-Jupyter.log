@@ -1,0 +1,15 @@
+Visual Studio Code (1.74.1, ssh-remote, desktop)
+Jupyter Extension Version: 2022.11.1003412109.
+Python Extension Version: 2022.20.1.
+Workspace folder /home/campus.ncl.ac.uk/nym23/demo_sumo
+info 10:05:52.092: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 10:05:52.625: LSP Notebooks experiment is enabled
+info 10:29:59.645: Shutting down notebooks for 485a6251-bd5e-4fa1-be46-e4614bf1428f
+info 10:29:59.645: Disposing HostJupyterExecution 509ad28d-7830-427b-a8a8-762accf38ee5
+info 10:29:59.645: Disposing super HostJupyterExecution 509ad28d-7830-427b-a8a8-762accf38ee5
+info 10:29:59.645: Disposing HostJupyterExecution 509ad28d-7830-427b-a8a8-762accf38ee5
+info 10:29:59.645: Finished disposing HostJupyterExecution  509ad28d-7830-427b-a8a8-762accf38ee5
+info 10:29:59.652: Cleaning up server cache 509ad28d-7830-427b-a8a8-762accf38ee5
+info 10:29:59.653: Finished disposing HostJupyterExecution  509ad28d-7830-427b-a8a8-762accf38ee5

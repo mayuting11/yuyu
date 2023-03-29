@@ -1,0 +1,21 @@
+[Info  - 10:04:54] (16460) Pylance language server 2022.12.20 (pyright 621d886b) starting
+[Info  - 10:04:54] (16460) Server root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 10:04:54] (16460) Starting service instance "demo_sumo"
+[Info  - 10:04:54] (16460) Notebook support: LSP
+[Info  - 10:04:54] (16460) Interactive window support: LSP
+[Info  - 10:04:54] (16460) No configuration file found.
+[Info  - 10:04:54] (16460) No pyproject.toml file found.
+[Info  - 10:04:54] (16460) Setting pythonPath for service "demo_sumo": "D:/Python3.10/python.exe"
+[Warn  - 10:04:54] (16460) stubPath /home/campus.ncl.ac.uk/nym23/demo_sumo/typings is not a valid directory.
+[Info  - 10:04:54] (16460) Assuming Python platform Linux
+[Info  - 10:04:54] (16460) Searching for source files
+[Info  - 10:04:54] (16460) Found 27 source files
+[Info  - 10:04:54] (16460) Background analysis(1) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 10:04:54] (16460) Background analysis(1) started
+[Info  - 10:05:52] (16460) Indexer background runner(2) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 10:05:52] (16460) Indexing(2) started
+[Info  - 10:05:52] (16460) scanned(2) 4 files over 1 exec env
+[Info  - 10:05:52] (16460) indexed(2) 4 files over 1 exec env
+[Info  - 10:05:52] (16460) Indexing finished(2).
+[Info  - 10:06:41] (16460) Searching for source files
+[Info  - 10:06:41] (16460) Found 28 source files

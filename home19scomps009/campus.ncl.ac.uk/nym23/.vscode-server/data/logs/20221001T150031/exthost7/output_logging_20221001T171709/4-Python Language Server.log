@@ -1,0 +1,15 @@
+[Info  - 17:39:57] (23863) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 17:39:57] (23863) Server root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 17:39:57] (23863) Starting service instance "nym23"
+[Info  - 17:39:57] (23863) Notebook support: LSP
+[Info  - 17:39:57] (23863) Interactive window support: LSP
+[Info  - 17:39:57] (23863) No configuration file found.
+[Info  - 17:39:57] (23863) No pyproject.toml file found.
+[Info  - 17:39:57] (23863) Setting pythonPath for service "nym23": "/usr/bin/python3"
+[Warn  - 17:39:57] (23863) stubPath /home/campus.ncl.ac.uk/nym23/typings is not a valid directory.
+[Info  - 17:39:57] (23863) Assuming Python version 3.6
+[Info  - 17:39:57] (23863) Assuming Python platform Linux
+[Info  - 17:39:57] (23863) Searching for source files
+[Info  - 17:39:57] (23863) Found 7 source files
+[Info  - 17:39:57] (23863) Background analysis(1) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 17:39:57] (23863) Background analysis(1) started

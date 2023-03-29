@@ -1,0 +1,286 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:33963 (IPv4)
+Extension host agent listening on 33963
+
+[10:04:31] Extension host agent started.
+[10:04:31] Started initializing default profile extensions in extensions installation folder. file:///home/campus.ncl.ac.uk/nym23/.vscode-server/extensions
+[10:04:31] [127.0.0.1][70841156][ManagementConnection] New connection established.
+[10:04:31] [127.0.0.1][d692160f][ExtensionHostConnection] New connection established.
+[10:04:31] [127.0.0.1][d692160f][ExtensionHostConnection] <16298> Launched Extension Host Process.
+[10:04:31] Completed initializing default profile extensions in extensions installation folder. file:///home/campus.ncl.ac.uk/nym23/.vscode-server/extensions
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[10:04:35] Getting Manifest... kevinrose.vsc-python-indent
+[10:04:35] Getting Manifest... ms-python.python
+[10:04:35] Getting Manifest... ms-python.vscode-pylance
+[10:04:35] Getting Manifest... ms-toolsai.jupyter
+[10:04:35] Getting Manifest... ms-toolsai.jupyter-renderers
+[10:04:35] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+[10:04:35] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[10:04:35] Installing extension: kevinrose.vsc-python-indent
+[10:04:35] Installing extension: ms-python.vscode-pylance
+[10:04:35] Installing extension: ms-python.python
+[10:04:35] Installing extension: ms-toolsai.jupyter-renderers
+[10:04:35] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+[10:04:35] Installing extension: visualstudioexptteam.vscodeintellicode
+[10:04:35] Installing extension: ms-toolsai.jupyter
+[10:04:35] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+[10:04:35] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+[10:04:35] Getting Manifest... ms-python.isort
+[10:04:35] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-toolsai.jupyter
+[10:04:35] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-toolsai.jupyter
+[10:04:36] Installing extension: ms-python.isort ms-python.python
+[10:04:36] Getting Manifest... ms-python.python
+[10:04:36] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.8e98c187-68ca-4b72-ad89-729d2b2dec26: kevinrose.vsc-python-indent
+[10:04:36] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/kevinrose.vsc-python-indent-1.18.0
+[10:04:36] Extracting completed. kevinrose.vsc-python-indent
+[10:04:36] Extension installed successfully: kevinrose.vsc-python-indent
+[10:04:36] Marked extension as uninstalled kevinrose.vsc-python-indent-1.17.0
+[10:04:36] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.4b6074bd-9021-453f-a376-a68efe9d5891: ms-toolsai.vscode-jupyter-slideshow
+[10:04:36] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[10:04:36] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.9cc8e408-8c02-483b-8a3d-c33858186d55: ms-toolsai.vscode-jupyter-cell-tags
+[10:04:36] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+[10:04:36] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[10:04:36] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+[10:04:36] Getting Manifest... ms-python.isort
+[10:04:36] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+[10:04:36] Waiting for already requested installing extension ms-python.isort ms-python.vscode-pylance
+[10:04:36] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.5d02d954-1ec2-4db2-a5fd-20b709dbc973: visualstudioexptteam.intellicode-api-usage-examples
+[10:04:36] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.6
+[10:04:36] Extracting completed. visualstudioexptteam.intellicode-api-usage-examples
+[10:04:36] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+[10:04:36] Marked extension as uninstalled visualstudioexptteam.intellicode-api-usage-examples-0.2.4
+[10:04:36] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.0d93492e-da46-4762-8b8e-9f837bb8c53f: ms-toolsai.jupyter-renderers
+[10:04:36] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.12
+[10:04:36] Extracting completed. ms-toolsai.jupyter-renderers
+[10:04:37] Extension installed successfully: ms-toolsai.jupyter-renderers
+[10:04:37] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.9
+[10:04:39] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.23cf6363-277c-41c7-a7d5-7d5fa492fc65: ms-toolsai.jupyter
+[10:04:39] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109
+[10:04:39] Extracting completed. ms-toolsai.jupyter
+[10:04:39] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+[10:04:39] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+[10:04:39] Extension installed successfully: ms-toolsai.jupyter
+[10:04:39] Marked extension as uninstalled ms-toolsai.jupyter-2022.8.1002431955
+[10:04:41] [127.0.0.1][70841156][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:04:41] [127.0.0.1][d692160f][ExtensionHostConnection] <16298> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:04:41] Last EH closed, waiting before shutting down
+[10:04:42] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.f74d06f9-bbef-4a08-8358-00f0394fae79: ms-python.python
+[10:04:42] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.python-2022.20.1
+[10:04:42] Extracting completed. ms-python.python
+[10:04:42] Marked extension as uninstalled ms-python.python-2022.14.0
+[10:04:43] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.3986b890-abba-48d6-b59b-c90928ba7805: ms-python.isort
+[10:04:43] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.isort-2022.8.0
+[10:04:43] Extracting completed. ms-python.isort
+[10:04:43] Extension installed successfully: ms-python.python
+[10:04:43] Extension installed successfully: ms-python.isort
+[10:04:43] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+[10:04:43] Finished waiting for already requested installing extension ms-python.isort ms-python.vscode-pylance
+[10:04:44] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.151c6451-77e3-4142-b097-d493125675ce: visualstudioexptteam.vscodeintellicode
+[10:04:44] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.29
+[10:04:44] Extracting completed. visualstudioexptteam.vscodeintellicode
+[10:04:44] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[10:04:44] Marked extension as uninstalled visualstudioexptteam.vscodeintellicode-1.2.28
+[10:04:44] Extracted extension to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/.10c53642-1346-4586-a226-20da52fb6239: ms-python.vscode-pylance
+[10:04:44] Renamed to /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20
+[10:04:44] Extracting completed. ms-python.vscode-pylance
+[10:04:44] Extension installed successfully: ms-python.vscode-pylance
+[10:04:44] Marked extension as uninstalled ms-python.vscode-pylance-2022.9.40
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:04:49] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:04:49] Cancelling previous shutdown timeout
+[10:04:50] [127.0.0.1][f120f22a][ManagementConnection] New connection established.
+[10:04:50] [127.0.0.1][5c877434][ExtensionHostConnection] New connection established.
+[10:04:50] [127.0.0.1][5c877434][ExtensionHostConnection] <16401> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at h.J (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateIcon (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:2715)
+    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[10:04:53] Error [CodeExpectedError]: Could not find pty on pty host
+    at h.J (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateIcon (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:2715)
+    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at h.J (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[10:04:53] Error [CodeExpectedError]: Could not find pty on pty host
+    at h.J (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+New EH opened, aborting shutdown
+[10:09:49] New EH opened, aborting shutdown
+[10:29:59] [127.0.0.1][f120f22a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:29:59] [127.0.0.1][5c877434][ExtensionHostConnection] <16401> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:29:59] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[10:34:59] Last EH closed, shutting down

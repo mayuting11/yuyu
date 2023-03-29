@@ -1,0 +1,41 @@
+[2022-10-01 17:17:09.568] [exthost] [info] Extension host with pid 9882 started
+[2022-10-01 17:17:09.570] [exthost] [error] Error: EEXIST: file already exists, open '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/e0bcdf4cfd60c3ee43069a80b0eeb674/vscode.lock'
+[2022-10-01 17:17:09.576] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/e0bcdf4cfd60c3ee43069a80b0eeb674/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-10-01 17:17:09.579] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/e0bcdf4cfd60c3ee43069a80b0eeb674/vscode.lock': The lock does not look stale, elapsed: 317 ms, giving up.
+[2022-10-01 17:17:09.582] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/e0bcdf4cfd60c3ee43069a80b0eeb674-1/vscode.lock': Lock acquired.
+[2022-10-01 17:17:09.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-01 17:17:09.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-01 17:17:09.654] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-01 17:17:10.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-01 17:17:10.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-01 17:17:10.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-01 17:17:10.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-01 17:17:10.445] [exthost] [info] Eager extensions activated
+[2022-10-01 17:39:56.158] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onCommand:python.setInterpreter'
+[2022-10-01 17:41:10.596] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-01 17:41:10.598] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/e0bcdf4cfd60c3ee43069a80b0eeb674-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-01 17:41:10.613] [exthost] [error] Canceled: Canceled
+	at Object.A [as canceled] (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+	at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:95:9092
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:95:9040)
+	at b.terminate (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:97:10988)
+	at b.terminate (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+	at m (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:111:19088)
+	at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:111:17016
+	at b.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at p.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at a.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:69:19042)
+	at r._receiveMessage (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:69:23854)
+	at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:69:21224
+	at b.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at p.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at v.acceptChunk (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:69:15873)
+	at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:69:15003
+	at b.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at p.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at v.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at v._processReadQueue (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/workbench/api/node/extensionHostProcess.js:69:34245) python.setInterpreter {"value":"ms-python.python","_lower":"ms-python.python"}
+[2022-10-01 17:41:10.618] [exthost] [info] Extension host with pid 9882 exiting with code 0

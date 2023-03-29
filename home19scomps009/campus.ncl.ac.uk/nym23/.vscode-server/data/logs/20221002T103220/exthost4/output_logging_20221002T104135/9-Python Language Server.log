@@ -1,0 +1,48 @@
+[Info  - 11:04:10] (16916) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 11:04:10] (16916) Server root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 11:04:10] (16916) Starting service instance "usercentricprototype"
+[Info  - 11:04:10] (16916) Notebook support: LSP
+[Info  - 11:04:10] (16916) Interactive window support: LSP
+[Info  - 11:04:10] (16916) No configuration file found.
+[Info  - 11:04:10] (16916) No pyproject.toml file found.
+[Info  - 11:04:10] (16916) Setting pythonPath for service "usercentricprototype": "/usr/bin/python3"
+[Warn  - 11:04:10] (16916) stubPath /home/campus.ncl.ac.uk/nym23/usercentricprototype/typings is not a valid directory.
+[Info  - 11:04:10] (16916) Assuming Python version 3.6
+[Info  - 11:04:10] (16916) Assuming Python platform Linux
+[Info  - 11:04:10] (16916) Searching for source files
+[Info  - 11:04:10] (16916) Found 7 source files
+[Info  - 11:04:11] (16916) Background analysis(1) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 11:04:11] (16916) Background analysis(1) started
+[Info  - 11:04:11] (16916) Indexer background runner(2) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist (index)
+[Info  - 11:04:11] (16916) Indexing(2) started
+[Info  - 11:04:12] (16916) Indexer done(2). indexed 469 files
+[Info  - 11:45:01] (16916) No configuration file found.
+[Info  - 11:45:01] (16916) No pyproject.toml file found.
+[Info  - 11:45:01] (16916) Setting pythonPath for service "usercentricprototype": "/usr/bin/python3"
+[Warn  - 11:45:01] (16916) stubPath /home/campus.ncl.ac.uk/nym23/usercentricprototype/typings is not a valid directory.
+[Info  - 11:45:01] (16916) Assuming Python version 3.6
+[Info  - 11:45:01] (16916) Assuming Python platform Linux
+[Info  - 11:45:01] (16916) Searching for source files
+[Info  - 11:45:01] (16916) Found 7 source files
+[Info  - 11:46:21] (16916) No configuration file found.
+[Info  - 11:46:21] (16916) No pyproject.toml file found.
+[Info  - 11:46:21] (16916) Setting pythonPath for service "usercentricprototype": "/usr/bin/python3"
+[Warn  - 11:46:21] (16916) stubPath /home/campus.ncl.ac.uk/nym23/usercentricprototype/typings is not a valid directory.
+[Info  - 11:46:21] (16916) Assuming Python version 3.6
+[Info  - 11:46:21] (16916) Assuming Python platform Linux
+[Info  - 11:46:21] (16916) Searching for source files
+[Info  - 11:46:21] (16916) Found 7 source files
+[Info  - 11:58:30] (16916) Indexer background runner(3) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist (index)
+[Info  - 11:58:30] (16916) Indexing(3) started
+[Info  - 11:58:31] (16916) Indexer done(3). indexed 469 files
+[Info  - 12:04:27] (16916) No configuration file found.
+[Info  - 12:04:27] (16916) No pyproject.toml file found.
+[Info  - 12:04:27] (16916) Setting pythonPath for service "usercentricprototype": "/usr/bin/python3"
+[Warn  - 12:04:27] (16916) stubPath /home/campus.ncl.ac.uk/nym23/usercentricprototype/typings is not a valid directory.
+[Info  - 12:04:27] (16916) Assuming Python version 3.6
+[Info  - 12:04:27] (16916) Assuming Python platform Linux
+[Info  - 12:04:27] (16916) Searching for source files
+[Info  - 12:04:27] (16916) Found 7 source files
+[Info  - 12:04:27] (16916) Indexer background runner(4) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist (index)
+[Info  - 12:04:27] (16916) Indexing(4) started
+[Info  - 12:04:28] (16916) Indexer done(4). indexed 469 files

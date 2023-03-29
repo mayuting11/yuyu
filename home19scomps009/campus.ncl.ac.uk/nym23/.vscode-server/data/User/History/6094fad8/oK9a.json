@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.defaultInterpreterPath": "d:\\Python3.7\\python.exe",
+    "workbench.editor.untitled.hint": "hidden",
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.remotePlatform": {
+        "yuting": "linux",
+        "19scomps010": "linux",
+        "19scomps001": "linux",
+        "19scomps011": "linux"
+    },
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "python.analysis.extraPaths": []
+}

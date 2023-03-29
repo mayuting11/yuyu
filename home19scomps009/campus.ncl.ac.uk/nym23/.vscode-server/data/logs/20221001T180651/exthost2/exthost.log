@@ -1,0 +1,22 @@
+[2022-10-01 18:53:15.532] [exthost] [info] Extension host with pid 4166 started
+[2022-10-01 18:53:15.546] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/d2a4f483f1d004597c555f8b6d8471a5/vscode.lock': Lock acquired.
+[2022-10-01 18:53:15.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-01 18:53:15.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-01 18:53:15.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-01 18:53:15.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-01 18:53:16.007] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-01 18:53:16.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-01 18:53:16.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-01 18:53:16.104] [exthost] [info] Eager extensions activated
+[2022-10-01 18:53:22.747] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:22.813] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:22.825] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:23.072] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:23.488] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:23.563] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:23.749] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 18:53:24.465] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-10-01 18:53:24.986] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-01 19:40:52.873] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-01 19:40:52.874] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/d2a4f483f1d004597c555f8b6d8471a5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-01 19:40:52.896] [exthost] [info] Extension host with pid 4166 exiting with code 0

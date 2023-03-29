@@ -1,0 +1,21 @@
+Logger Init
+Initialization complete.
+Loaded supported calls (Version 1.3)
+Batch of 19 Total time: 354ms (Avg. Per Call: 19ms)
+Batch of 12 Total time: 276ms (Avg. Per Call: 23ms)
+Batch of 5 Total time: 182ms (Avg. Per Call: 36ms)
+Batch of 1 Total time: 188ms (Avg. Per Call: 188ms)
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+Batch of 6 Total time: 255ms (Avg. Per Call: 43ms)
+Batch of 1 Total time: 142ms (Avg. Per Call: 142ms)
+Batch of 1 Total time: 70ms (Avg. Per Call: 70ms)
+getSourceText: unexpected node type 'import_prefix'
+getSourceText: unexpected node type 'import_prefix'
+Batch of 11 Total time: 310ms (Avg. Per Call: 28ms)
+Batch of 3 Total time: 170ms (Avg. Per Call: 57ms)

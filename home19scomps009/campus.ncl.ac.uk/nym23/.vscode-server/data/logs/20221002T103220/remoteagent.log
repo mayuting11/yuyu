@@ -1,0 +1,37 @@
+[2022-10-02 10:32:20.615] [remoteagent] [info] Extension host agent started.
+[2022-10-02 10:32:20.910] [remoteagent] [info] [127.0.0.1][91ece3fe][ManagementConnection] New connection established.
+[2022-10-02 10:32:20.942] [remoteagent] [info] [127.0.0.1][6c238a28][ExtensionHostConnection] New connection established.
+[2022-10-02 10:32:20.951] [remoteagent] [info] [127.0.0.1][6c238a28][ExtensionHostConnection] <29187> Launched Extension Host Process.
+[2022-10-02 10:33:08.053] [remoteagent] [info] [127.0.0.1][91ece3fe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 10:33:08.069] [remoteagent] [info] [127.0.0.1][6c238a28][ExtensionHostConnection] <29187> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 10:33:08.069] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-02 10:33:58.769] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-02 10:33:58.769] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-02 10:33:58.921] [remoteagent] [info] [127.0.0.1][6856f095][ManagementConnection] New connection established.
+[2022-10-02 10:33:58.925] [remoteagent] [info] [127.0.0.1][9e53bd61][ExtensionHostConnection] New connection established.
+[2022-10-02 10:33:58.930] [remoteagent] [info] [127.0.0.1][9e53bd61][ExtensionHostConnection] <30251> Launched Extension Host Process.
+[2022-10-02 10:38:58.770] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-10-02 10:41:12.349] [remoteagent] [info] [127.0.0.1][0ae93731][ManagementConnection] New connection established.
+[2022-10-02 10:41:12.383] [remoteagent] [info] [127.0.0.1][e0e3345e][ExtensionHostConnection] New connection established.
+[2022-10-02 10:41:12.392] [remoteagent] [info] [127.0.0.1][e0e3345e][ExtensionHostConnection] <2408> Launched Extension Host Process.
+[2022-10-02 10:41:22.491] [remoteagent] [info] [127.0.0.1][0ae93731][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 10:41:22.506] [remoteagent] [info] [127.0.0.1][e0e3345e][ExtensionHostConnection] <2408> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 10:41:34.038] [remoteagent] [info] [127.0.0.1][a30166f2][ManagementConnection] New connection established.
+[2022-10-02 10:41:34.049] [remoteagent] [info] [127.0.0.1][e588d0d2][ExtensionHostConnection] New connection established.
+[2022-10-02 10:41:34.056] [remoteagent] [info] [127.0.0.1][e588d0d2][ExtensionHostConnection] <2736> Launched Extension Host Process.
+[2022-10-02 10:41:36.511] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:36316)","    at c.updateTitle (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:23:32064)","    at Object.call (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at u.onPromise (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5851)","    at u.onRawMessage (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:5234)","    at /home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:15:4520","    at p.invoke (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at T.fire (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.Q (/home/campus.ncl.ac.uk/nym23/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/platform/terminal/node/ptyHostMain.js:9:20703)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-02 10:41:37.478] [remoteagent] [info] [127.0.0.1][6856f095][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 10:41:37.495] [remoteagent] [info] [127.0.0.1][9e53bd61][ExtensionHostConnection] <30251> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 12:04:48.909] [remoteagent] [info] [127.0.0.1][a30166f2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 12:04:48.951] [remoteagent] [info] [127.0.0.1][e588d0d2][ExtensionHostConnection] <2736> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 12:04:48.951] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-02 12:05:17.961] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-02 12:05:17.961] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-02 12:05:18.144] [remoteagent] [info] [127.0.0.1][36fff58d][ManagementConnection] New connection established.
+[2022-10-02 12:05:18.199] [remoteagent] [info] [127.0.0.1][9618348d][ExtensionHostConnection] New connection established.
+[2022-10-02 12:05:18.209] [remoteagent] [info] [127.0.0.1][9618348d][ExtensionHostConnection] <22256> Launched Extension Host Process.
+[2022-10-02 12:05:41.461] [remoteagent] [info] [127.0.0.1][36fff58d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 12:05:41.493] [remoteagent] [info] [127.0.0.1][9618348d][ExtensionHostConnection] <22256> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 12:05:41.493] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-02 12:05:41.493] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-02 12:10:41.494] [remoteagent] [info] Last EH closed, shutting down

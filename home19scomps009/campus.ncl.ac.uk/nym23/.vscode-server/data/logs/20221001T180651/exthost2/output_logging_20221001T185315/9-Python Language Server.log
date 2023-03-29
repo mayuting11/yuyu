@@ -1,0 +1,19 @@
+[Info  - 18:53:25] (4410) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 18:53:25] (4410) Server root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 18:53:25] (4410) Starting service instance "user-centricprototype"
+[Info  - 18:53:25] (4410) Notebook support: LSP
+[Info  - 18:53:25] (4410) Interactive window support: LSP
+[Info  - 18:53:25] (4410) No configuration file found.
+[Info  - 18:53:25] (4410) No pyproject.toml file found.
+[Info  - 18:53:25] (4410) Setting pythonPath for service "user-centricprototype": "/usr/bin/python3"
+[Warn  - 18:53:25] (4410) stubPath /home/campus.ncl.ac.uk/nym23/user-centricprototype/typings is not a valid directory.
+[Info  - 18:53:25] (4410) Assuming Python version 3.6
+[Info  - 18:53:25] (4410) Assuming Python platform Linux
+[Info  - 18:53:25] (4410) Searching for source files
+[Info  - 18:53:25] (4410) Found 7 source files
+[Info  - 18:53:26] (4410) Background analysis(1) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 18:53:26] (4410) Background analysis(1) started
+[Info  - 18:53:26] (4410) Indexer background runner(2) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist (index)
+[Info  - 18:53:26] (4410) Indexing(2) started
+[Info  - 18:53:28] (4410) [IDX(2)] Long operation: index libraries /home/campus.ncl.ac.uk/nym23/user-centricprototype (2042ms)
+[Info  - 18:53:28] (4410) Indexer done(2). indexed 469 files

@@ -1,0 +1,17 @@
+colorama
+requests
+matplotlib
+pillow
+azure.cognitiveservices.vision.computervision
+pylint
+asyncio
+aiohttp
+aiofiles
+xlwt
+imageio
+pandas
+geometry 
+lxml
+pandas
+xlrd
+scipy

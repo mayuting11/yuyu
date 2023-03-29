@@ -1,0 +1,17 @@
+[2022-10-02 12:46:36.676] [remoteagent] [info] Extension host agent started.
+[2022-10-02 12:46:36.847] [remoteagent] [info] [127.0.0.1][9d2a9567][ManagementConnection] New connection established.
+[2022-10-02 12:46:36.853] [remoteagent] [info] [127.0.0.1][abd9bb0c][ExtensionHostConnection] New connection established.
+[2022-10-02 12:46:36.862] [remoteagent] [info] [127.0.0.1][abd9bb0c][ExtensionHostConnection] <15433> Launched Extension Host Process.
+[2022-10-02 14:29:25.271] [remoteagent] [info] [127.0.0.1][9d2a9567][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 14:29:25.326] [remoteagent] [info] [127.0.0.1][abd9bb0c][ExtensionHostConnection] <15433> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 14:29:25.327] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-02 14:29:48.093] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-02 14:29:48.093] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-02 14:29:48.272] [remoteagent] [info] [127.0.0.1][0dc69e5b][ManagementConnection] New connection established.
+[2022-10-02 14:29:48.276] [remoteagent] [info] [127.0.0.1][7d692ebc][ExtensionHostConnection] New connection established.
+[2022-10-02 14:29:48.284] [remoteagent] [info] [127.0.0.1][7d692ebc][ExtensionHostConnection] <15783> Launched Extension Host Process.
+[2022-10-02 14:33:27.947] [remoteagent] [info] [127.0.0.1][0dc69e5b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-02 14:33:28.018] [remoteagent] [info] [127.0.0.1][7d692ebc][ExtensionHostConnection] <15783> Extension Host Process exited with code: 0, signal: null.
+[2022-10-02 14:33:28.019] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-02 14:33:28.019] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-02 14:38:28.020] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,34 @@
+[2022-10-02 12:46:38.121] [exthost] [info] Extension host with pid 15433 started
+[2022-10-02 12:46:38.131] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/27645495ec087672269775e903c4cb89/vscode.lock': Lock acquired.
+[2022-10-02 12:46:38.243] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.253] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.255] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.488] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.753] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.767] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.903] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 12:46:38.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-02 12:46:38.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-02 12:46:38.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-02 12:46:39.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-02 12:46:39.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-02 12:46:39.709] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-10-02 12:46:39.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-02 12:46:39.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-02 12:46:39.871] [exthost] [info] Eager extensions activated
+[2022-10-02 12:46:39.943] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-02 13:31:32.049] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:31:32.461] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:33:22.210] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:33:30.599] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:33:31.919] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:33:35.273] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:33:43.225] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 13:34:14.759] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 14:04:25.640] [exthost] [warning] VisualStudioExptTeam.intellicode-api-usage-examples - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-10-02 14:11:30.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-02 14:11:30.473] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-02 14:11:30.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-02 14:29:25.269] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-02 14:29:25.270] [exthost] [info] Lock '/home/campus.ncl.ac.uk/nym23/.vscode-server/data/User/workspaceStorage/27645495ec087672269775e903c4cb89/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-02 14:29:25.315] [exthost] [info] Extension host with pid 15433 exiting with code 0

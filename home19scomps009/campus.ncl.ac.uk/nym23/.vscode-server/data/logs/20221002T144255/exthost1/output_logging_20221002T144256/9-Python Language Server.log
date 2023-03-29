@@ -1,0 +1,94 @@
+[Info  - 14:42:59] (24656) Pylance language server 2022.9.40 (pyright 9fd1b94c) starting
+[Info  - 14:42:59] (24656) Server root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 14:42:59] (24656) Starting service instance "usercentricprototype"
+[Info  - 14:42:59] (24656) Notebook support: LSP
+[Info  - 14:42:59] (24656) Interactive window support: LSP
+[Info  - 14:42:59] (24656) No configuration file found.
+[Info  - 14:42:59] (24656) No pyproject.toml file found.
+[Info  - 14:42:59] (24656) Setting pythonPath for service "usercentricprototype": "/usr/bin/python3"
+[Warn  - 14:42:59] (24656) stubPath /home/campus.ncl.ac.uk/nym23/usercentricprototype/typings is not a valid directory.
+[Info  - 14:42:59] (24656) Assuming Python version 3.6
+[Info  - 14:42:59] (24656) Assuming Python platform Linux
+[Info  - 14:42:59] (24656) Searching for source files
+[Info  - 14:42:59] (24656) Found 871 source files
+[Info  - 14:42:59] (24656) Background analysis(1) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist
+[Info  - 14:42:59] (24656) Background analysis(1) started
+[Info  - 14:42:59] (24656) Indexer background runner(2) root directory: /home/campus.ncl.ac.uk/nym23/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40/dist (index)
+[Info  - 14:42:59] (24656) Indexing(2) started
+[Info  - 14:43:00] (24656) Indexer done(2). indexed 469 files
+[Info  - 14:43:02] (24656) Searching for source files
+[Info  - 14:43:02] (24656) Found 825 source files
+[Info  - 14:43:03] (24656) Searching for source files
+[Info  - 14:43:03] (24656) Found 820 source files
+[Info  - 14:43:04] (24656) Searching for source files
+[Info  - 14:43:04] (24656) Found 818 source files
+[Info  - 14:43:04] (24656) Searching for source files
+[Info  - 14:43:04] (24656) Found 815 source files
+[Info  - 14:43:05] (24656) Searching for source files
+[Info  - 14:43:05] (24656) Found 809 source files
+[Info  - 14:43:05] (24656) Searching for source files
+[Info  - 14:43:05] (24656) Found 807 source files
+[Info  - 14:43:06] (24656) Searching for source files
+[Info  - 14:43:06] (24656) Found 805 source files
+[Info  - 14:43:09] (24656) Searching for source files
+[Info  - 14:43:09] (24656) Found 785 source files
+[Info  - 14:43:10] (24656) Searching for source files
+[Info  - 14:43:10] (24656) Found 781 source files
+[Info  - 14:43:10] (24656) Searching for source files
+[Info  - 14:43:10] (24656) Found 778 source files
+[Info  - 14:43:11] (24656) Searching for source files
+[Info  - 14:43:11] (24656) Found 769 source files
+[Info  - 14:43:12] (24656) Searching for source files
+[Info  - 14:43:12] (24656) Found 752 source files
+[Info  - 14:43:13] (24656) Searching for source files
+[Info  - 14:43:13] (24656) Found 751 source files
+[Info  - 14:43:14] (24656) Searching for source files
+[Info  - 14:43:14] (24656) Found 742 source files
+[Info  - 14:43:24] (24656) Searching for source files
+[Info  - 14:43:24] (24656) Found 689 source files
+[Info  - 14:43:26] (24656) Searching for source files
+[Info  - 14:43:26] (24656) Found 678 source files
+[Info  - 14:43:27] (24656) Searching for source files
+[Info  - 14:43:27] (24656) Found 673 source files
+[Info  - 14:43:28] (24656) Searching for source files
+[Info  - 14:43:28] (24656) Found 666 source files
+[Info  - 14:43:36] (24656) Searching for source files
+[Info  - 14:43:36] (24656) Found 604 source files
+[Info  - 14:43:45] (24656) Searching for source files
+[Info  - 14:43:45] (24656) Found 545 source files
+[Info  - 14:43:46] (24656) Searching for source files
+[Info  - 14:43:46] (24656) Found 540 source files
+[Info  - 14:43:47] (24656) Searching for source files
+[Info  - 14:43:47] (24656) Found 537 source files
+[Info  - 14:43:47] (24656) Searching for source files
+[Info  - 14:43:47] (24656) Found 534 source files
+[Info  - 14:44:03] (24656) Searching for source files
+[Info  - 14:44:03] (24656) Found 409 source files
+[Info  - 14:44:05] (24656) Searching for source files
+[Info  - 14:44:05] (24656) Found 400 source files
+[Info  - 14:44:07] (24656) Searching for source files
+[Info  - 14:44:07] (24656) Found 380 source files
+[Info  - 14:44:13] (24656) Searching for source files
+[Info  - 14:44:13] (24656) Found 336 source files
+[Info  - 14:44:17] (24656) Searching for source files
+[Info  - 14:44:17] (24656) Found 313 source files
+[Info  - 14:44:21] (24656) Searching for source files
+[Info  - 14:44:21] (24656) Found 285 source files
+[Info  - 14:44:21] (24656) Searching for source files
+[Info  - 14:44:21] (24656) Found 281 source files
+[Info  - 14:44:22] (24656) Searching for source files
+[Info  - 14:44:22] (24656) Found 276 source files
+[Info  - 14:44:29] (24656) Searching for source files
+[Info  - 14:44:29] (24656) Found 223 source files
+[Info  - 14:44:30] (24656) Searching for source files
+[Info  - 14:44:30] (24656) Found 219 source files
+[Info  - 14:44:31] (24656) Searching for source files
+[Info  - 14:44:31] (24656) Found 214 source files
+[Info  - 14:44:32] (24656) Searching for source files
+[Info  - 14:44:32] (24656) Found 209 source files
+[Info  - 14:44:33] (24656) Searching for source files
+[Info  - 14:44:33] (24656) Found 207 source files
+[Info  - 14:44:37] (24656) Searching for source files
+[Info  - 14:44:37] (24656) Found 182 source files
+[Info  - 14:44:58] (24656) Searching for source files
+[Info  - 14:44:58] (24656) Found 11 source files
